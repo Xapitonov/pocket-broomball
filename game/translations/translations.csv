@@ -1,87 +1,87 @@
-keys,en,de,it,fr,es
-PLAY,Play,Spielen,Gioca,Jouer,Jugar
-HALL,Hall of Fame,Hall of Fame,Hall of Fame,Hall of Fame,Salón de la Fama
-SETTINGS,Settings,Einstellungen,Impostazioni,Paramètres,Ajustes
-EXIT,Exit,Exit,Esci,Exit,Salir
-MUSIC_OFF,Music off,Musik aus,Musica off,No musique,Música apagada
-MUSIC_1,Music chill,Musik chill,Musica chill,Musique chill,Música chill
-MUSIC_2,Music energy,Musik energy,Musica energy,Musique energy,Música energy
-SFX_ON,Sfx on,Sfx ein,Sfx si,Sfx oui,SFX encendido
-SFX_OFF,Sfx off,Sfx aus,Sfx no,Sfx no,SFX apagado
-LOGIN_ARCADE,Login arcade,Einloggen,Accedi arcade,Connexion,Acceso arcade
-RATE,Rate game,Bewerten,Valuta gioco,Évaluation,Califica el juego
-MORE_GAMES,More games,Mehr Spiele,Piu giochi,Autres jeux,Más juegos
-SPECIAL_CODE,Special code,Spezial kode,Codice speciale,Code spécial,Código especial
-GO_BACK,Go back,Zurück,Indietro,Retourner,Atrás
-PLAYED,Played,Gesp.,Giocati,Joué,Jugado
-WIN,Win,Gew.,Vinti,Gagner,Ganado
-LEAGUE,League,Liga,Liga,Ligue,Liga
-TOURNAMENT,Tournament,Turnier,Torneo,Tournoi,Torneo
-ARCADE,Arcade,Arcade,Arcade,Arcade,Arcade
-P_VS_PC,1 Player,1 Spieler,1 Giocatore,1 Joueur,1 Jugador
-P_VS_P,2 Players,2 Spieler,2 Giocatori,2 Joueurs,2 Jugadores
-B_VS_B,Bot vs Bot,Bot vs Bot,Bot vs Bot,Bot vs Bot,Bot vs Bot
-SPEED,Speed,Speed,Velocità ,Rapidité,Velocidad
-POWER,Power,Kraft,Forza,Force,Fuerza
-FREEZE,Freeze,Erfrieren,Gela,Geler,Congelación
-ONLINE,Online,Online,Online,Online,En línea
-EASY,Easy,Leicht,Facile,Facile,Fácil
-MEDIUM,Medium,Mittel,Medio,Moyen,Medio
-HARD,Hard,Schwierig,Difficile,Dur,Difícil
-EXTREME,Extreme,Extrem,Estremo,Extrême,Extremo
-LEGEND,Legend,Legende,Leggenda,Légende,Legendario
-RESUME,Resume,Weiter,Continua,Reprise,Continuar
-MENU,Menu,Menü,Menù,Menu,Menú
-REPLAY,Replay,Nochmal,Rigioca,Rejouer,Volver a jugar
-INDIA,India,Indien,India,Inde,India
-GERMANY,Germany,Deutschland,Germania,Allemagne,Alemania
-AUSTRIA,Austria,Österreich,Austria,Autriche,Austria
-SLOVENIA,Slovenia,Slovenien,Slovenia,Slovénie,Eslovenia
-FRANCE,France,Frankreich,Francia,France,Francia
-RUSSIA,Russia,Russland,Russia,Russie,Rusia
-JAPAN,Japan,Japan,Giappone,Japon,Japón
-AUSTRALIA,Australia,Australien,Australia,Australie,Australia
-ITALY,Italy,Italien,Italia ,Italie,Italia
-SWITZERLAND,Switzerland,Schweiz,Svizzera,Suisse,Suiza
-USAT,USA,USA,Stati uniti,États-unis,Estados Unidos
-CANADA,Canada,Kanada,Canada,Canada,Canadá
-GROUP,Group,Gruppe,Gruppo,Groupe,Grupo
-START_NEW,Start new,Neustart,Rinizia,Nouveau départ,Empezar nuevo
-TEAM,Team,Mannschaft,Squadra,Équipe,Equipo
-CONTINUE,Continue,Weiter,Continua,Continuer,Continuar
-BUY,Buy,Kaufen,Compra,Acheter,Comprar
-BALL,Ball,Ball,Palla,Boule,Pelota
-GLOVES,Gloves,Handschuhe,Guanti,Gants,Guantes
-STICK,Stick,Schläger,Mazza,Crosse,Palo
-FIELD,Field,Feld,Campo,Terrain,Campo
-HELMET,Helmet,Helm,Casco,Casque,Casco
-SHOP,Shop,Shop,Negozio,Boutique,Tienda
-YES,Yes,Ja,Si,Oui,Sí
-NO,No,Nein,No,No,No
-WARNING_NEW,YOUR CURRENT\nPROGRESS WILL\nBE LOST!\nCONTINUE?,DEIN AKTUELLER\nFORTSCHRITT\nGEHT VERLOREN!\nBIST DU SICHER?,IL TUO TORNEO\nATTUALE SARA'\nPERSO!\nCONTINUARE?,VOTRE PROGRES\nACTUEL SERA\nPERDU !\nCONTINUER ?,¡TU PROGRESO ACTUAL\nSE PERDERÁ!\n¿CONTINUAR?
-GROUP_A,GROUP A,GRUPPE A,GRUPPO A,GROUPE A,GRUPO A
-GROUP_B,GROUP B,GRUPPE B,GRUPPO B,GROUPE B,GRUPO B
-GROUP_C,GROUP C,GRUPPE C,GRUPPO C,GROUPE C,GRUPO C
-GROUP_D,GROUP D,GRUPPE D,GRUPPO D,GROUPE D,GRUPO D
-P,P,P,P,P,P
-W,W,G,V,W,W
-L,L,V,P,P,L
-GD,GD,TD,DR,DDB,GD
-SEMI_FINALS,SEMI FINALS,SEMI FINALE,SEMI FINALE,SEMIFINALS,SEMIFINALES
-QUARTER_FINALS,QUARTER FINALS,VIERTEL FINALE,QUARTI DI FINALE,QUART DE FINALES,CUARTOS DE FINALES
-FINAL,FINAL,FINALE,FINALE,FINAL,FINAL
-WORLD_CHAMPION,WORLD CHAMPION,WELTMEISTER,CAMPIONE DEL MONDO,CHAMPION MONDIAL,CAMPEÓN MUNDIAL
-JOIN,Add your team!,Team hinzufügen!,Aggiungi squadra!,Ajouter ton équipe,¡Añade tu equipo!
-SELECT,Select,Auswählen,Seleziona,Sélectionner,Seleccionar
-SELECTED,Selected,Ausgewählt,Selezionato,Sélectionné,Seleccionado
-INFO,Info,Infos,Info,Info,Información
-WEBSITE,Website,Website,Sito web,Site web,Sitio web
-DONATE,Donate,Spenden,Donazione,Donation,Donar
-ROUNDLIMIT,Goals for win,Tore für Sieg,Gol per vittoria,Buts par victoire,Goles por victoria
-PLAYER_1_WIN,Player 1 wins!,Spieler 1 gewinnt!,Giocatore 1 vince!,Joueur 1 gagne!,Jugador 1 gana!
-PLAYER_2_WIN,Player 2 wins!,Spieler 2 gewinnt!,Giocatore 2 vince!,Joueur 2 gagne!,Jugador 2 gana!
-BOT_1_WIN,Bot 1 wins!,Bot 1 gewinnt!,Bot 1 vince!,Bot 1 gagne!,Bot 1 gana!
-BOT_2_WIN,Bot 2 wins!,Bot 2 gewinnt!,Bot 2 vince!,Bot 2 gagne!,Bot 2 gana!
-YOU_WIN,You win!,Du gewinnst!,Hai vinto!,Vous avez gagné!,Has ganado!
-YOU_LOST,You loose...,Du verlierst...,Hai perso...,Vous avez perdu...,Has perdido...
-RESET_TEAMS,Reset teams,Teams zurücksetzen,Ripristina squadre,Réinitialiser équipe,Reajustar equipos
+keys,en,de,it,fr,es,ru
+PLAY,Play,Spielen,Gioca,Jouer,Jugar,Играть
+HALL,Hall of Fame,Hall of Fame,Hall of Fame,Hall of Fame,SalÃÂ³n de la Fama,Зал славы
+SETTINGS,Settings,Einstellungen,Impostazioni,ParamÃÂ¨tres,Ajustes,Настройки
+EXIT,Exit,Exit,Esci,Exit,Salir,Выход
+MUSIC_OFF,Music off,Musik aus,Musica off,No musique,MÃÂºsica apagada,Музыка выключена
+MUSIC_1,Music chill,Musik chill,Musica chill,Musique chill,MÃÂºsica chill,Спокойная музыка
+MUSIC_2,Music energy,Musik energy,Musica energy,Musique energy,MÃÂºsica energy,Энергичная музыка
+SFX_ON,Sfx on,Sfx ein,Sfx si,Sfx oui,SFX encendido,Звук эффекты да
+SFX_OFF,Sfx off,Sfx aus,Sfx no,Sfx no,SFX apagado,Звук эффекты нет
+LOGIN_ARCADE,Login arcade,Einloggen,Accedi arcade,Connexion,Acceso arcade,Войти в аркаду
+RATE,Rate game,Bewerten,Valuta gioco,ÃÂvaluation,Califica el juego,Оценить игру
+MORE_GAMES,More games,Mehr Spiele,Piu giochi,Autres jeux,MÃÂ¡s juegos,Другие игры
+SPECIAL_CODE,Special code,Spezial kode,Codice speciale,Code spÃÂ©cial,CÃÂ³digo especial,Спецкод
+GO_BACK,Go back,ZurÃÂ¼ck,Indietro,Retourner,AtrÃÂ¡s,Назад
+PLAYED,Played,Gesp.,Giocati,JouÃÂ©,Jugado,Сыграно
+WIN,Win,Gew.,Vinti,Gagner,Ganado,Выиграно
+LEAGUE,League,Liga,Liga,Ligue,Liga,Лига
+TOURNAMENT,Tournament,Turnier,Torneo,Tournoi,Torneo,Турнир
+ARCADE,Arcade,Arcade,Arcade,Arcade,Arcade,Аркада
+P_VS_PC,1 Player,1 Spieler,1 Giocatore,1 Joueur,1 Jugador,1 игрок
+P_VS_P,2 Players,2 Spieler,2 Giocatori,2 Joueurs,2 Jugadores,2 игрока
+B_VS_B,Bot vs Bot,Bot vs Bot,Bot vs Bot,Bot vs Bot,Bot vs Bot,Бот против бота
+SPEED,Speed,Speed,VelocitÃÂ ,RapiditÃÂ©,Velocidad,Скорость
+POWER,Power,Kraft,Forza,Force,Fuerza,Сила
+FREEZE,Freeze,Erfrieren,Gela,Geler,CongelaciÃÂ³n,Заморозка
+ONLINE,Online,Online,Online,Online,En lÃÂ­nea,Онлайн
+EASY,Easy,Leicht,Facile,Facile,FÃÂ¡cil,Простой
+MEDIUM,Medium,Mittel,Medio,Moyen,Medio,Средний
+HARD,Hard,Schwierig,Difficile,Dur,DifÃÂ­cil,Трудный
+EXTREME,Extreme,Extrem,Estremo,ExtrÃÂªme,Extremo,Экстрим
+LEGEND,Legend,Legende,Leggenda,LÃÂ©gende,Legendario,Легенда
+RESUME,Resume,Weiter,Continua,Reprise,Continuar,Продолжить
+MENU,Menu,MenÃÂ¼,MenÃÂ¹,Menu,MenÃÂº,Меню
+REPLAY,Replay,Nochmal,Rigioca,Rejouer,Volver a jugar,Повтор
+INDIA,India,Indien,India,Inde,India,Индия
+GERMANY,Germany,Deutschland,Germania,Allemagne,Alemania,Германия
+AUSTRIA,Austria,ÃÂsterreich,Austria,Autriche,Austria,Австрия
+SLOVENIA,Slovenia,Slovenien,Slovenia,SlovÃÂ©nie,Eslovenia,Словения
+FRANCE,France,Frankreich,Francia,France,Francia,Франция
+RUSSIA,Russia,Russland,Russia,Russie,Rusia,Россия
+JAPAN,Japan,Japan,Giappone,Japon,JapÃÂ³n,Япония
+AUSTRALIA,Australia,Australien,Australia,Australie,Australia,Австралия
+ITALY,Italy,Italien,Italia,Italie,Italia,Италия
+SWITZERLAND,Switzerland,Schweiz,Svizzera,Suisse,Suiza,Швейцария
+USAT,USA,USA,Stati uniti,ÃÂtats-unis,Estados Unidos,Америка
+CANADA,Canada,Kanada,Canada,Canada,CanadÃÂ¡,Канада
+GROUP,Group,Gruppe,Gruppo,Groupe,Grupo,Группа
+START_NEW,Start new,Neustart,Rinizia,Nouveau dÃÂ©part,Empezar nuevo,Перезапуск
+TEAM,Team,Mannschaft,Squadra,ÃÂquipe,Equipo,Команда
+CONTINUE,Continue,Weiter,Continua,Continuer,Continuar,Продолжить
+BUY,Buy,Kaufen,Compra,Acheter,Comprar,Купить
+BALL,Ball,Ball,Palla,Boule,Pelota,Мяч
+GLOVES,Gloves,Handschuhe,Guanti,Gants,Guantes,Перчатки
+STICK,Stick,SchlÃÂ¤ger,Mazza,Crosse,Palo,Клюшка
+FIELD,Field,Feld,Campo,Terrain,Campo,Поле
+HELMET,Helmet,Helm,Casco,Casque,Casco,Шлем
+SHOP,Shop,Shop,Negozio,Boutique,Tienda,Магазин
+YES,Yes,Ja,Si,Oui,SÃÂ­,Да
+NO,No,Nein,No,No,No,Нет
+WARNING_NEW,YOUR CURRENT\nPROGRESS WILL\nBE LOST!\nCONTINUE?,DEIN AKTUELLER\nFORTSCHRITT\nGEHT VERLOREN!\nBIST DU SICHER?,IL TUO TORNEO\nATTUALE SARA'\nPERSO!\nCONTINUARE?,VOTRE PROGRES\nACTUEL SERA\nPERDU !\nCONTINUER ?,ÃÂ¡TU PROGRESO ACTUAL\nSE PERDERÃÂ!\nÃÂ¿CONTINUAR?,ВАШ ТЕКУЩИЙ\nПРОГРЕСС БУДЕТ\nПОТЕРЯН!\nПРОДОЛЖИТЬ?
+GROUP_A,GROUP A,GRUPPE A,GRUPPO A,GROUPE A,GRUPO A,ГРУППА А
+GROUP_B,GROUP B,GRUPPE B,GRUPPO B,GROUPE B,GRUPO B,ГРУППА Б
+GROUP_C,GROUP C,GRUPPE C,GRUPPO C,GROUPE C,GRUPO C,ГРУППА В
+GROUP_D,GROUP D,GRUPPE D,GRUPPO D,GROUPE D,GRUPO D,ГРУППА Г
+P,P,P,P,P,P,P
+W,W,G,V,W,W,W
+L,L,V,P,P,L,L
+GD,GD,TD,DR,DDB,GD,GD
+SEMI_FINALS,SEMI FINALS,SEMI FINALE,SEMI FINALE,SEMIFINALS,SEMIFINALES,ПОЛУФИНАЛЫ
+QUARTER_FINALS,QUARTER FINALS,VIERTEL FINALE,QUARTI DI FINALE,QUART DE FINALES,CUARTOS DE FINALES,ЧЕТВЕРТЬФИНАЛЫ
+FINAL,FINAL,FINALE,FINALE,FINAL,FINAL,ФИНАЛ
+WORLD_CHAMPION,WORLD CHAMPION,WELTMEISTER,CAMPIONE DEL MONDO,CHAMPION MONDIAL,CAMPEÃÂN MUNDIAL,ЧЕМПИОН МИРА
+JOIN,Add your team!,Team hinzufÃÂ¼gen!,Aggiungi squadra!,Ajouter ton ÃÂ©quipe,ÃÂ¡AÃÂ±ade tu equipo!,Добавьте свою команду!
+SELECT,Select,AuswÃÂ¤hlen,Seleziona,SÃÂ©lectionner,Seleccionar,Выбрать
+SELECTED,Selected,AusgewÃÂ¤hlt,Selezionato,SÃÂ©lectionnÃÂ©,Seleccionado,Выбрано
+INFO,Info,Infos,Info,Info,InformaciÃÂ³n,Информация
+WEBSITE,Website,Website,Sito web,Site web,Sitio web,Веб-сайт
+DONATE,Donate,Spenden,Donazione,Donation,Donar,Пожертвовать
+ROUNDLIMIT,Goals for win,Tore fÃÂ¼r Sieg,Gol per vittoria,Buts par victoire,Goles por victoria,Голов для выигрыша
+PLAYER_1_WIN,Player 1 wins!,Spieler 1 gewinnt!,Giocatore 1 vince!,Joueur 1 gagne!,Jugador 1 gana!,Игрок 1 выиграл!
+PLAYER_2_WIN,Player 2 wins!,Spieler 2 gewinnt!,Giocatore 2 vince!,Joueur 2 gagne!,Jugador 2 gana!,Игрок 2 выиграл!
+BOT_1_WIN,Bot 1 wins!,Bot 1 gewinnt!,Bot 1 vince!,Bot 1 gagne!,Bot 1 gana!,Бот 1 выиграл!
+BOT_2_WIN,Bot 2 wins!,Bot 2 gewinnt!,Bot 2 vince!,Bot 2 gagne!,Bot 2 gana!,Бот 2 выиграл!
+YOU_WIN,You win!,Du gewinnst!,Hai vinto!,Vous avez gagnÃÂ©!,Has ganado!,Вы выиграли!
+YOU_LOST,You loose...,Du verlierst...,Hai perso...,Vous avez perdu...,Has perdido...,Вы проиграли...
+RESET_TEAMS,Reset teams,Teams zurÃÂ¼cksetzen,Ripristina squadre,RÃÂ©initialiser ÃÂ©quipe,Reajustar equipos,Сброс команд
